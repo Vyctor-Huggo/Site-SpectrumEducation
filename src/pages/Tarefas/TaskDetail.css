@@ -1,0 +1,102 @@
+.task-detail {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .back-button, .submit-button {
+    background-color: #0078d7;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .back-button:hover, .submit-button:hover {
+    background-color: #005a9e;
+  }
+  
+  .main-content {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .task-info {
+    flex: 3;
+  }
+  
+  .due-date {
+    font-size: 14px;
+    color: #888;
+    margin-bottom: 20px;
+  }
+  
+  .instructions {
+    margin-bottom: 20px;
+  }
+  
+  .instructions h3 {
+    margin-top: 0;
+  }
+  
+  .instructions ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .instructions li {
+    margin-bottom: 10px;
+  }
+  
+  .my-work {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .my-work h3 {
+    margin-top: 0;
+  }
+  
+  .file-upload {
+    margin-bottom: 20px;
+  }
+  
+  .file-upload label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .file-upload input[type="file"] {
+    display: block;
+  }
+  
+  .preview-image {
+    margin-top: 20px;
+    max-width: 100%;
+    border-radius: 4px;
+  }
+  
+  .points {
+    flex: 1;
+    margin-left: 20px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .points h3 {
+    margin-top: 0;
+  }
+  
