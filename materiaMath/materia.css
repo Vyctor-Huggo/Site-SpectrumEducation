@@ -1,0 +1,49 @@
+#navBar{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.container{
+    align-items: center;
+    justify-content: flex-start;
+    width: 300vh;
+
+}
+#atividade01{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 1%;
+    background-color: rgba(0, 105, 170, 1);
+    height: 10vh;
+    border-radius: 15vh;
+}
+#atividade02{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3%;
+    background-color: rgba(0, 105, 170, 1);
+    height: 10vh;
+    border-radius: 15vh;
+}
+#row04{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgba(0, 105, 170, 1);
+    height: 15vh;
+    border-radius: 5vh;
+}
+#professora{
+    flex-direction: row;
+}
+#row05{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgb(16, 106, 161);
+    height: 15vh;
+    border-radius: 5vh;
+}

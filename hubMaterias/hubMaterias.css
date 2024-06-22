@@ -1,0 +1,64 @@
+#navBar{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.container{
+    align-items: center;
+    justify-content: flex-start;
+    width: 300vh;
+
+}
+#row01{
+    align-items: top;
+    display: flex;
+    justify-content: center;
+    width: 189.5vh;
+
+}
+#row02{
+    margin-top: 7%;
+    align-items: top;
+    display: flex;
+    justify-content: center;
+    width: 189.5vh;
+ 
+}
+#card01{
+    transition: transform 0.3s;
+}
+#card01:hover{
+    transform: scale(1.1);
+}
+#card02{
+    transition: transform 0.3s;
+}
+#card02:hover{
+    transform: scale(1.1);
+}
+#card03{
+    transition: transform 0.3s;
+}
+#card03:hover{
+    transform: scale(1.1);
+}
+#card04{
+    transition: transform 0.3s;
+}
+#card04:hover{
+    transform: scale(1.1);
+}
+#card05{
+    transition: transform 0.3s;
+}
+#card05:hover{
+    transform: scale(1.1);
+}
+#card06{
+    transition: transform 0.3s;
+}
+#card06:hover{
+    transform: scale(1.1);
+}
+    

@@ -1,0 +1,23 @@
+#navBar{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.container{
+    align-items: center;
+    justify-content: flex-start;
+    width: 300vh;
+    border: 2px solid red;
+}
+#row01{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    width: 189.5vh;
+}
+#row02{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
